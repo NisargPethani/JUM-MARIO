@@ -17,11 +17,11 @@ It is a game which is built in C and C++ with the sound-enabled multi-threaded g
 Run `JUM MARIO.exe`<br><br>
 Some of the screen Shots are as Follow:
 
-<p align="center"><img src="SUPPORTING FILES/SCREENSHOTS/ss1.JPG" width="480"\></p>
-<p align="center"><img src="SUPPORTING FILES/SCREENSHOTS/ss2.JPG" width="480"\></p>
+<p align="center"><img src="SUPPORT FILES/SCREENSHOTS/ss1.JPG" width="480"\></p>
+<p align="center"><img src="SUPPORT FILES/SCREENSHOTS/ss2.JPG" width="480"\></p>
 
 
 ## YOUTUBE 
 Following YouTube Video shows the output of JUM MARIO game
 <a align="center" href="http://www.youtube.com/watch?feature=player_embedded&v=jc5d2k-WZzs
-" target="_blank"><p align="center"><img src="SUPPORTING FILES/SCREENSHOTS/JUM MARIO.jpg" width="480" border="10" /></p></a>
+" target="_blank"><p align="center"><img src="SUPPORT FILES/SCREENSHOTS/JUM MARIO.jpg" width="480" border="10" /></p></a>
